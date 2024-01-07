@@ -1,0 +1,364 @@
+{
+    "tarefas": [
+        {
+            "id": 1,
+            "titulo": "Reuni\u00e3o de equipe",
+            "descricao": "Discutir o progresso do projeto",
+            "data_vencimento": "2023-11-10",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 2,
+            "titulo": "Comprar mantimentos",
+            "descricao": "Leite, p\u00e3o, frutas, etc.",
+            "data_vencimento": "2023-11-06",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 3,
+            "titulo": "Estudar para o exame",
+            "descricao": "Revisar cap\u00edtulos 5 e 6",
+            "data_vencimento": "2023-11-15",
+            "prioridade": "Alta",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 4,
+            "titulo": "Preparar relat\u00f3rio mensal",
+            "descricao": "Analisar dados de vendas",
+            "data_vencimento": "2023-11-25",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 5,
+            "titulo": "Fazer exerc\u00edcios f\u00edsicos",
+            "descricao": "Correr por 30 minutos",
+            "data_vencimento": "2023-11-08",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 6,
+            "titulo": "Ler livro recomendado",
+            "descricao": "Cap\u00edtulo 7 a 10",
+            "data_vencimento": "2023-11-20",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 7,
+            "titulo": "Enviar relat\u00f3rio de despesas",
+            "descricao": "Prazo de final de m\u00eas",
+            "data_vencimento": "2023-11-30",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 8,
+            "titulo": "Comprar presente de anivers\u00e1rio",
+            "descricao": "Para o amigo",
+            "data_vencimento": "2023-11-12",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 9,
+            "titulo": "Pesquisar sobre intelig\u00eancia artificial",
+            "descricao": "Para projeto pessoal",
+            "data_vencimento": "2023-11-18",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 10,
+            "titulo": "Agendar revis\u00e3o do carro",
+            "descricao": "Verificar \u00f3leo e pneus",
+            "data_vencimento": "2023-11-28",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 11,
+            "titulo": "Reuni\u00e3o de equipe",
+            "descricao": "Discutir o progresso do projeto",
+            "data_vencimento": "2023-11-10",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 12,
+            "titulo": "Comprar mantimentos",
+            "descricao": "Leite, p\u00e3o, frutas, etc.",
+            "data_vencimento": "2023-11-06",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 13,
+            "titulo": "Estudar para o exame",
+            "descricao": "Revisar cap\u00edtulos 5 e 6",
+            "data_vencimento": "2023-11-15",
+            "prioridade": "Alta",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 14,
+            "titulo": "Preparar relat\u00f3rio mensal",
+            "descricao": "Analisar dados de vendas",
+            "data_vencimento": "2023-11-25",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 15,
+            "titulo": "Fazer exerc\u00edcios f\u00edsicos",
+            "descricao": "Correr por 30 minutos",
+            "data_vencimento": "2023-11-08",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 16,
+            "titulo": "Ler livro recomendado",
+            "descricao": "Cap\u00edtulo 7 a 10",
+            "data_vencimento": "2023-11-20",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 17,
+            "titulo": "Enviar relat\u00f3rio de despesas",
+            "descricao": "Prazo de final de m\u00eas",
+            "data_vencimento": "2023-11-30",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 18,
+            "titulo": "Comprar presente de anivers\u00e1rio",
+            "descricao": "Para o amigo",
+            "data_vencimento": "2023-11-12",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 19,
+            "titulo": "Pesquisar sobre intelig\u00eancia artificial",
+            "descricao": "Para projeto pessoal",
+            "data_vencimento": "2023-11-18",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 20,
+            "titulo": "Agendar revis\u00e3o do carro",
+            "descricao": "Verificar \u00f3leo e pneus",
+            "data_vencimento": "2023-11-28",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 21,
+            "titulo": "Reuni\u00e3o de equipe",
+            "descricao": "Discutir o progresso do projeto",
+            "data_vencimento": "2023-11-10",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 22,
+            "titulo": "Comprar mantimentos",
+            "descricao": "Leite, p\u00e3o, frutas, etc.",
+            "data_vencimento": "2023-11-06",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 23,
+            "titulo": "Estudar para o exame",
+            "descricao": "Revisar cap\u00edtulos 5 e 6",
+            "data_vencimento": "2023-11-15",
+            "prioridade": "Alta",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 24,
+            "titulo": "Preparar relat\u00f3rio mensal",
+            "descricao": "Analisar dados de vendas",
+            "data_vencimento": "2023-11-25",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 25,
+            "titulo": "Fazer exerc\u00edcios f\u00edsicos",
+            "descricao": "Correr por 30 minutos",
+            "data_vencimento": "2023-11-08",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 26,
+            "titulo": "Ler livro recomendado",
+            "descricao": "Cap\u00edtulo 7 a 10",
+            "data_vencimento": "2023-11-20",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 27,
+            "titulo": "Enviar relat\u00f3rio de despesas",
+            "descricao": "Prazo de final de m\u00eas",
+            "data_vencimento": "2023-11-30",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 28,
+            "titulo": "Comprar presente de anivers\u00e1rio",
+            "descricao": "Para o amigo",
+            "data_vencimento": "2023-11-12",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 29,
+            "titulo": "Pesquisar sobre intelig\u00eancia artificial",
+            "descricao": "Para projeto pessoal",
+            "data_vencimento": "2023-11-18",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 30,
+            "titulo": "Agendar revis\u00e3o do carro",
+            "descricao": "Verificar \u00f3leo e pneus",
+            "data_vencimento": "2023-11-28",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 31,
+            "titulo": "Reuni\u00e3o de equipe",
+            "descricao": "Discutir o progresso do projeto",
+            "data_vencimento": "2023-11-10",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 32,
+            "titulo": "Comprar mantimentos",
+            "descricao": "Leite, p\u00e3o, frutas, etc.",
+            "data_vencimento": "2023-11-06",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 33,
+            "titulo": "Estudar para o exame",
+            "descricao": "Revisar cap\u00edtulos 5 e 6",
+            "data_vencimento": "2023-11-15",
+            "prioridade": "Alta",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 34,
+            "titulo": "Preparar relat\u00f3rio mensal",
+            "descricao": "Analisar dados de vendas",
+            "data_vencimento": "2023-11-25",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 35,
+            "titulo": "Fazer exerc\u00edcios f\u00edsicos",
+            "descricao": "Correr por 30 minutos",
+            "data_vencimento": "2023-11-08",
+            "prioridade": "Baixa",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 36,
+            "titulo": "Ler livro recomendado",
+            "descricao": "Cap\u00edtulo 7 a 10",
+            "data_vencimento": "2023-11-20",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 37,
+            "titulo": "Enviar relat\u00f3rio de despesas",
+            "descricao": "Prazo de final de m\u00eas",
+            "data_vencimento": "2023-11-30",
+            "prioridade": "Alta",
+            "categoria": "Trabalho",
+            "concluida": false
+        },
+        {
+            "id": 38,
+            "titulo": "Comprar presente de anivers\u00e1rio",
+            "descricao": "Para o amigo",
+            "data_vencimento": "2023-11-12",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Pessoal",
+            "concluida": false
+        },
+        {
+            "id": 39,
+            "titulo": "Pesquisar sobre intelig\u00eancia artificial",
+            "descricao": "Para projeto pessoal",
+            "data_vencimento": "2023-11-18",
+            "prioridade": "M\u00e9dia",
+            "categoria": "Estudo",
+            "concluida": false
+        },
+        {
+            "id": 40,
+            "titulo": "comprar mantimentos",
+            "descricao": "comprar leite, carne e peixe.",
+            "data_vencimento": "2024-01-09",
+            "prioridade": "media",
+            "categoria": "pessoal",
+            "concluida": false
+        }
+    ]
+}
